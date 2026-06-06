@@ -4,9 +4,7 @@
 
 <h3>Enhancement One: Software Design and Engineering</a></h3>
 
-<!DOCTYPE html>
 <html>
-
 <body>
 <p>
 The artifact I chose to modify for the Software Engineering and Design category is the Inventory Application. 

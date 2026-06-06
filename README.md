@@ -100,16 +100,17 @@ functionality and better align it with industry standards.
 
 <table>
   <tr>
-    <td><img src="Enhancement_1/images/Account_Settings.png" width="300"></td>
+    <td style="padding-right:20px;">
+      <img src="Enhancement_1/images/Account_Settings.png" width="300">
+    </td>
 
-    <td style="width:40px;"></td>
-
-    <td><img src="Enhancement_1/images/Inventory_List_Changes.png" width="300"></td>
+    <td style="padding-left:20px;">
+      <img src="Enhancement_1/images/Inventory_List_Changes.png" width="300">
+    </td>
   </tr>
 
   <tr>
     <td align="center">Account Settings</td>
-    <td></td>
     <td align="center">Inventory List Changes</td>
   </tr>
 </table>

@@ -4,7 +4,7 @@
 <p>This video offers a comprehensive walkthrough of the original application and discusses planned enhancements, including improvements to security, 
 code documentation, and overall application functionality.</p>
 
-<h3>Original Artifact:<a href="https://github.com/cbuzicky/CS-499-Capstone/tree/main/Original_Inventory_Application">
+<h3>Original Artifact:<a href="https://github.com/cbuzicky/CS-499-Capstone/tree/main/Original_Inventory_Application%20">
     Original Inventory Application</a></h3>
 <p>This artifact was originally developed for CS 360 - Mobile Architecture and Programming and was used as the foundation for the enhancements across all three categories.</p>
 

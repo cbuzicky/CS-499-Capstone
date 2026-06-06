@@ -101,6 +101,8 @@ functionality and better align it with industry standards.
 </body>
 </html>
 
+![Account Settings Screenshot](Enhancement_1/images/Account_Settings.png)
+
 <h3><a href="enhancement2.html">Enhancement Two: Algorithms and Data Structure</a></h3>
 
 <h3><a href="enhancement3.html">Enhancement Three: Databases</a></h3>

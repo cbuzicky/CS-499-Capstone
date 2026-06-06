@@ -109,7 +109,7 @@ functionality and better align it with industry standards.
   </div>
 
   <div style="text-align:center;">
-    <strong>Edit Items Dialog</strong><br>
+    <strong>Edit Items Dialog Changes</strong><br>
     <img src="Enhancement_1/images/Edit_Items_Dialog.png" width="300">
   </div>
 

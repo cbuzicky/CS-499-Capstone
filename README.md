@@ -7,7 +7,7 @@ code documentation, and overall application functionality.</p>
 <h3>Original Artifact: <a href="Buzicky_Original_InventoryApplication_CS360.zip">Inventory Application</a></h3>
 <p>This artifact was originally developed for CS 360 - Mobile Architecture and Programming and was used as the foundation for the enhancements across all three categories.</p>
 
-<h3>Enhancement One: < a href="Software Design and Engineering">Software Design and Engineering<a/></h3>
+<h3>Enhancement One: <a href="Software Design and Engineering">Software Design and Engineering<a/></h3>
 
 <html>
 <body>

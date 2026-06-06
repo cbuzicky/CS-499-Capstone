@@ -107,11 +107,16 @@ functionality and better align it with industry standards.
     <td style="padding-left:20px;">
       <img src="Enhancement_1/images/Inventory_List_Changes.png" width="300">
     </td>
+
+    <td style="padding-left:20px;">
+      <img src="Enhancement_1/images/Edit_Items_Dialog.png" width="300">
+    </td>
   </tr>
 
   <tr>
-    <td align="center">Account Settings</td>
+    <td align="center">Account Settings Page</td>
     <td align="center">Inventory List Changes</td>
+    <td align="center">Edit Items Dialog Box</td>
   </tr>
 </table>
 

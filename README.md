@@ -30,8 +30,6 @@ code documentation, and overall application functionality.</p>
         Software Design and Engineering
     </a>
 </h3>
-
-<html>
 <body>
 <p>
 The artifact I chose to modify for the Software Engineering and Design category is the Inventory Application. 
@@ -97,10 +95,9 @@ both my frontend and backend development skills while also improving my understa
 I am looking forward to continuing future enhancements to the Inventory Application in order to further improve its 
 functionality and better align it with industry standards.
 </p>
-
 <table>
   <tr>
-    <td>
+    <td style="padding-right:20px;">
       <img src="Enhancement_1/images/Account_Settings.png" width="300">
     </td>
 
@@ -114,15 +111,14 @@ functionality and better align it with industry standards.
   </tr>
 
   <tr>
-    <td align="center">Account Settings Page</td>
+    <td align="center">Account Settings</td>
     <td align="center">Inventory List Changes</td>
-    <td align="center">Edit Items Dialog Box</td>
+    <td align="center">Edit Items Dialog</td>
   </tr>
 </table>
 
-</body>
-</html>
 
+</body>
 <h3><a href="enhancement2.html">Enhancement Two: Algorithms and Data Structure</a></h3>
 
 <h3><a href="enhancement3.html">Enhancement Three: Databases</a></h3>

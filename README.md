@@ -100,7 +100,7 @@ functionality and better align it with industry standards.
 
 <table>
   <tr>
-    <td style="padding-right:20px;">
+    <td>
       <img src="Enhancement_1/images/Account_Settings.png" width="300">
     </td>
 

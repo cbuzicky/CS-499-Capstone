@@ -20,13 +20,6 @@ code documentation, and overall application functionality.</p>
     </a>
 </h3>
 
-<h3>
-    <a href="https://github.com/cbuzicky/CS-499-Capstone/blob/main/Original_Inventory_Application.zip"
-       target="_blank"
-       rel="noopener noreferrer">
-        Download files
-    </a>
-</h3>
 
 <p>This artifact, the Inventory Application, was originally developed for CS 360 - Mobile Architecture and Programming and was used as the foundation for the enhancements across all three categories.</p>
 

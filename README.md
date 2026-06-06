@@ -8,4 +8,4 @@
 
 <h3>Enhancement Three: Databases </h3>
 
-<<h3>Professional Self-Assessment</h3>
+<h3>Professional Self-Assessment</h3>

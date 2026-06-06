@@ -30,7 +30,7 @@ code documentation, and overall application functionality.</p>
         Software Design and Engineering
     </a>
 </h3>
-<body>
+
 <p>
 The artifact I chose to modify for the Software Engineering and Design category is the Inventory Application. 
 This project involved the creation of a mobile application as the final project for my CS 360 Mobile Architectures course, 
@@ -117,8 +117,6 @@ functionality and better align it with industry standards.
   </tr>
 </table>
 
-
-</body>
 <h3><a href="enhancement2.html">Enhancement Two: Algorithms and Data Structure</a></h3>
 
 <h3><a href="enhancement3.html">Enhancement Three: Databases</a></h3>

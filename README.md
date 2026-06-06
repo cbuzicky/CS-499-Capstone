@@ -95,27 +95,24 @@ both my frontend and backend development skills while also improving my understa
 I am looking forward to continuing future enhancements to the Inventory Application in order to further improve its 
 functionality and better align it with industry standards.
 </p>
-<table>
-  <tr>
-    <td style="padding-right:20px;">
-      <img src="Enhancement_1/images/Account_Settings.png" width="300">
-    </td>
 
-    <td style="padding-left:20px;">
-      <img src="Enhancement_1/images/Inventory_List_Changes.png" width="300">
-    </td>
+<div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
+    
+  <div style="text-align:center;">
+    <img src="Enhancement_1/images/Account_Settings.png" width="300"><br>
+    Account Settings
+  </div>
 
-    <td style="padding-left:20px;">
-      <img src="Enhancement_1/images/Edit_Items_Dialog.png" width="300">
-    </td>
-  </tr>
+  <div style="text-align:center;">
+    <img src="Enhancement_1/images/Inventory_List_Changes.png" width="300"><br>
+    Inventory List Changes
+  </div>
 
-  <tr>
-    <td align="center">Account Settings</td>
-    <td align="center">Inventory List Changes</td>
-    <td align="center">Edit Items Dialog</td>
-  </tr>
-</table>
+  <div style="text-align:center;">
+    <img src="Enhancement_1/images/Edit_Items_Dialog.png" width="300"><br>
+    Edit Items Dialog
+  </div>
+</div>
 
 <h3><a href="enhancement2.html">Enhancement Two: Algorithms and Data Structure</a></h3>
 

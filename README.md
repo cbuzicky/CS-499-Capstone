@@ -1,6 +1,8 @@
 # CS499 - SNHU Capstone Project
 
 <h3>Code Review: <a href="https://youtu.be/ms-hm71Fm98">YouTube Link</a></h3>
+<p>This video offers a comprehensive walkthrough of the original application and discusses planned enhancements, including improvements to security, 
+code documentation, and overall application functionality.</p>
 
 <h3>Original Artifact: <a href="Buzicky_Original_InventoryApplication_CS360.zip">Inventory Application</a></h3>
 

@@ -97,21 +97,22 @@ functionality and better align it with industry standards.
 </p>
 
 <div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
-    
+
   <div style="text-align:center;">
-    <img src="Enhancement_1/images/Account_Settings.png" width="300"><br>
-    Account Settings
+    <strong>Account Settings</strong><br>
+    <img src="Enhancement_1/images/Account_Settings.png" width="300">
   </div>
 
   <div style="text-align:center;">
-    <img src="Enhancement_1/images/Inventory_List_Changes.png" width="300"><br>
-    Inventory List Changes
+    <strong>Inventory List Changes</strong><br>
+    <img src="Enhancement_1/images/Inventory_List_Changes.png" width="300">
   </div>
 
   <div style="text-align:center;">
-    <img src="Enhancement_1/images/Edit_Items_Dialog.png" width="300"><br>
-    Edit Items Dialog
+    <strong>Edit Items Dialog</strong><br>
+    <img src="Enhancement_1/images/Edit_Items_Dialog.png" width="300">
   </div>
+
 </div>
 
 <h3><a href="enhancement2.html">Enhancement Two: Algorithms and Data Structure</a></h3>

@@ -98,9 +98,6 @@ I am looking forward to continuing future enhancements to the Inventory Applicat
 functionality and better align it with industry standards.
 </p>
 
-</body>
-</html>
-
 <table>
   <tr>
     <td><img src="Enhancement_1/images/Account_Settings.png" width="300"></td>
@@ -116,6 +113,9 @@ functionality and better align it with industry standards.
     <td align="center">Inventory List Changes</td>
   </tr>
 </table>
+
+</body>
+</html>
 
 <h3><a href="enhancement2.html">Enhancement Two: Algorithms and Data Structure</a></h3>
 

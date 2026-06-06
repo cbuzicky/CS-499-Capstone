@@ -101,7 +101,10 @@ functionality and better align it with industry standards.
 </body>
 </html>
 
-<img src="Enhancement_1/images/Account_Settings.png" width="400" alt="Account Settings Screenshot">
+<p align="center">
+  <img src="Enhancement_1/images/Account_Settings.png" width="300" alt="Account Settings">
+  <img src="Enhancement_1/images/Inventory_List_Changes.png" width="300" alt="Second View">
+</p>
 
 <h3><a href="enhancement2.html">Enhancement Two: Algorithms and Data Structure</a></h3>
 

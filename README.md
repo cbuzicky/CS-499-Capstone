@@ -1,8 +1,13 @@
 # CS499 - SNHU Capstone Project
 
-<h3>Code Review: <a href="https://youtu.be/ms-hm71Fm98"
-        target="_blank"
-        rel="noopener noreferrer">YouTube Link</a></h3>
+<h3>
+    Code Review:
+    <a href="https://youtu.be/ms-hm71Fm98"
+       target="_blank"
+       rel="noopener noreferrer">
+        YouTube Link
+    </a>
+</h3>
         
 <p>This video offers a comprehensive walkthrough of the original application and discusses planned enhancements, including improvements to security, 
 code documentation, and overall application functionality.</p>

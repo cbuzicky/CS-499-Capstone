@@ -101,10 +101,21 @@ functionality and better align it with industry standards.
 </body>
 </html>
 
-<p align="center">
-  <img src="Enhancement_1/images/Account_Settings.png" width="300" alt="Account Settings">
-  <img src="Enhancement_1/images/Inventory_List_Changes.png" width="300" alt="Second View">
-</p>
+<table>
+  <tr>
+    <td><img src="Enhancement_1/images/Account_Settings.png" width="300"></td>
+
+    <td style="width:40px;"></td>
+
+    <td><img src="Enhancement_1/images/Inventory_List_Changes.png" width="300"></td>
+  </tr>
+
+  <tr>
+    <td align="center">Account Settings</td>
+    <td></td>
+    <td align="center">Inventory List Changes</td>
+  </tr>
+</table>
 
 <h3><a href="enhancement2.html">Enhancement Two: Algorithms and Data Structure</a></h3>
 

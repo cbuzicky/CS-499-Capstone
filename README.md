@@ -16,7 +16,7 @@ code documentation, and overall application functionality.</p>
     <a href="https://github.com/cbuzicky/CS-499-Capstone/tree/main/Original_Inventory_Application%20"
        target="_blank"
        rel="noopener noreferrer">
-        Original Inventory Application
+        Inventory Application
     </a>
 </h3>
 

@@ -165,4 +165,4 @@ functionality and better align it with industry standards.
     </a>
 </h3>
 
-<h3><a href="self-assessment.html">Professional Self-Assessment</a></h3>
+<h3>Professional Self-Assessment</h3>

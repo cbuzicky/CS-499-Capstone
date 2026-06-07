@@ -1,8 +1,5 @@
-<div align="center">
 
-# CS499 - SNHU Capstone Project
-
-</div>
+<h1 align="center">CS499 - SNHU Capstone Project</h1>
 
 <h3>
     Code Review:

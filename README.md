@@ -145,6 +145,14 @@ functionality and better align it with industry standards.
 
 <p>Singh, C. (2022, September 11). <em>Java 8 lambda comparator example for sorting list of custom objects</em>. BeginnersBook. https://beginnersbook.com/2017/10/java-8-lambda-comparator-example-for-sorting-list-of-custom-objects/</p>
 
+<div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
+
+  <div style="text-align:center;">
+    <strong>Sort and Search Functionality</strong><br>
+    <img src="Enhancement_1/images/Sort_Search.png" width="400">
+  </div>
+</div>
+
 <h3>Enhancement Three:
     <a href="https://github.com/cbuzicky/CS-499-Capstone/tree/main/Enhancement_3"
        target="_blank"

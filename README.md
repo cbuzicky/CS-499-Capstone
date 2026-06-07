@@ -1,6 +1,7 @@
 
 <h1 align="center">CS499 - SNHU Capstone Project</h1>
 
+<div style="height: 5px;"></div>
 
 <h3>
     Code Review:

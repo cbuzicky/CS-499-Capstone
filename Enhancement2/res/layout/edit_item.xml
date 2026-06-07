@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Dialog box for Edit Item information -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!-- Edit Item Menu Text -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/edit_item"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingBottom="16dp" />
+
+    <!-- Edit Name text box -->
+    <EditText
+        android:id="@+id/edit_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/item_name"
+        android:inputType="textPersonName"
+        android:maxLength="50"/>
+
+    <!-- Edit SKU text box-->
+    <EditText
+        android:id="@+id/edit_sku"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/sku"
+        android:inputType="text"
+        android:layout_marginTop="12dp"
+        android:maxLength="20"/>
+
+    <!-- Edit Quantity text box -->
+    <EditText
+        android:id="@+id/edit_quantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/quantity"
+        android:inputType="number"
+        android:layout_marginTop="12dp"
+        android:maxLength="5"/>
+
+    <!-- Picture Preview -->
+    <ImageView
+        android:id="@+id/image_item"
+        android:layout_width="200dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:background="@android:color/darker_gray"
+        android:contentDescription="@string/item_image"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher_background" />
+    <!-- Layout box for buttons -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="24dp">
+
+        <!-- Cancel Button -->
+        <Button
+            android:id="@+id/button_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel"
+            app:backgroundTint="#FF0000"/>
+
+        <!-- Change Image Button -->
+        <Button
+            android:id="@+id/button_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/change_image"
+            android:layout_marginStart="8dp"
+            app:backgroundTint="#3366CC"/>
+
+        <!-- Save Button -->
+        <Button
+            android:id="@+id/button_save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/save"
+            android:layout_marginStart="8dp"
+            app:backgroundTint="#388E3C"/>
+
+    </LinearLayout>
+
+</LinearLayout>

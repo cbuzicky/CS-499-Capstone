@@ -118,7 +118,6 @@ functionality and better align it with industry standards.
   </div>
 
 <br><br>
-
 <h3>Enhancement Two:
     <a href="https://github.com/cbuzicky/CS-499-Capstone/tree/main/Enhancement_2"
        target="_blank"

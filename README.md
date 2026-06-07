@@ -117,10 +117,7 @@ functionality and better align it with industry standards.
     <img src="Enhancement_1/images/Edit_Items_Dialog.png" width="300">
   </div>
 
-</div>
-<p>
-    
-</p>
+<br><br>
 
 <h3>Enhancement Two:
     <a href="https://github.com/cbuzicky/CS-499-Capstone/tree/main/Enhancement_2"

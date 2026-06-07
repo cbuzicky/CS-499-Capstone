@@ -1,6 +1,8 @@
+<div align="center">
+
 # CS499 - SNHU Capstone Project
 
-
+</div>
 
 <h3>
     Code Review:

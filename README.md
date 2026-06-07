@@ -149,7 +149,7 @@ functionality and better align it with industry standards.
 
   <div style="text-align:center;">
     <strong>Sort and Search Functionality</strong><br>
-    <img src="Enhancement_1/images/Sort_Search.png" width="400">
+    <img src="Enhancement_2/images/Sort_Search.png" width="400">
   </div>
 </div>
 

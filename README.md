@@ -113,6 +113,8 @@ functionality and better align it with industry standards.
     <strong>Edit Items Dialog Changes</strong><br>
     <img src="Enhancement_1/images/Edit_Items_Dialog.png" width="300">
   </div>
+ 
+</div>
 
 <br><br>
 <h3>Enhancement Two:

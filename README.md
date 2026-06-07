@@ -115,8 +115,20 @@ functionality and better align it with industry standards.
 
 </div>
 
-<h3><a href="enhancement2.html">Enhancement Two: Algorithms and Data Structure</a></h3>
+<h3>Enhancement Two:
+    <a href="https://github.com/cbuzicky/CS-499-Capstone/tree/main/Enhancement_2"
+       target="_blank"
+       rel="noopener noreferrer">
+        Algorithms and Data Structure
+    </a>
+</h3>
 
-<h3><a href="enhancement3.html">Enhancement Three: Databases</a></h3>
+<h3>Enhancement Three:
+    <a href="https://github.com/cbuzicky/CS-499-Capstone/tree/main/Enhancement_3"
+       target="_blank"
+       rel="noopener noreferrer">
+        Databases
+    </a>
+</h3>
 
 <h3><a href="self-assessment.html">Professional Self-Assessment</a></h3>

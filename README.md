@@ -103,17 +103,17 @@ functionality and better align it with industry standards.
 
   <div style="text-align:center;">
     <strong>Account Settings</strong><br>
-    <img src="Enhancement_1/images/Account_Settings.png" width="300">
+    <img src="Enhancement_1/images/Account_Settings.png" width="400">
   </div>
 
   <div style="text-align:center;">
     <strong>Inventory List Changes</strong><br>
-    <img src="Enhancement_1/images/Inventory_List_Changes.png" width="300">
+    <img src="Enhancement_1/images/Inventory_List_Changes.png" width="400">
   </div>
 
   <div style="text-align:center;">
     <strong>Edit Items Dialog Changes</strong><br>
-    <img src="Enhancement_1/images/Edit_Items_Dialog.png" width="300">
+    <img src="Enhancement_1/images/Edit_Items_Dialog.png" width="400">
   </div>
  
 </div>

@@ -16,7 +16,7 @@
 code documentation, and overall application functionality.</p>
 
 <h3>Original Artifact:
-    <a href="https://github.com/cbuzicky/CS-499-Capstone/tree/main/Original_Inventory_Application%20"
+    <a href="https://github.com/cbuzicky/CS-499-Capstone/tree/main/Original_Inventory_Application"
        target="_blank"
        rel="noopener noreferrer">
         Inventory Application

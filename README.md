@@ -103,17 +103,17 @@ functionality and better align it with industry standards.
 
   <div style="text-align:center;">
     <strong>Account Settings</strong><br>
-    <img src="Enhancement_1/images/Account_Settings.png" width="400">
+    <img src="Enhancement_1/images/Account_Settings.png" width="400" alt="Account Settings Page">
   </div>
 
   <div style="text-align:center;">
     <strong>Inventory List Changes</strong><br>
-    <img src="Enhancement_1/images/Inventory_List_Changes.png" width="400">
+    <img src="Enhancement_1/images/Inventory_List_Changes.png" width="400" alt="Inventory List Page Changes">
   </div>
 
   <div style="text-align:center;">
-    <strong>Edit Items Dialog Changes</strong><br>
-    <img src="Enhancement_1/images/Edit_Items_Dialog.png" width="400">
+    <strong>Edit Item Dialog Changes</strong><br>
+    <img src="Enhancement_1/images/Edit_Items_Dialog.png" width="400" alt="Edit Item Dialog Page Changes">
   </div>
  
 </div>
@@ -153,7 +153,7 @@ functionality and better align it with industry standards.
 
   <div style="text-align:center;">
     <strong>Sort and Search Functionality</strong><br>
-    <img src="Enhancement_2/images/Sort_Search.png" width="400">
+    <img src="Enhancement_2/images/Sort_Search.png" width="400" alt="Sort and Search Functionality">
   </div>
 </div>
 

@@ -145,7 +145,7 @@ functionality and better align it with industry standards.
 
 <p>After testing all of these features, I was satisfied with how they functioned within the application. While there is always room for improvement during the software development process, I was excited to successfully implement both the search and sorting capabilities into the application. These enhancements not only improved the overall user experience but also provided valuable experience working with filtering algorithms, sorting algorithms, and dynamic user interface updates. The knowledge and techniques gained from implementing these features will support my future application development work, particularly in areas where similar functionality is required.</p>
 
-<h3>References</h3>
+<p>References</p>
 
 <p>Singh, C. (2022, September 11). <em>Java 8 lambda comparator example for sorting list of custom objects</em>. BeginnersBook. https://beginnersbook.com/2017/10/java-8-lambda-comparator-example-for-sorting-list-of-custom-objects/</p>
 

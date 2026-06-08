@@ -24,7 +24,7 @@ code documentation, and overall application functionality.</p>
 </h3>
 
 
-<p>This artifact, the Inventory Application, was originally developed for CS 360 - Mobile Architecture and Programming and was used as the foundation for the enhancements across all three categories.</p>
+<p>This artifact, the Inventory Application, was originally developed for CS 360 - Mobile Architecture and Programming and was used as the foundation for the enhancements across all three categories: Software Design and Engineering, Algorithms and Data Structures, and Databases.</p>
 
 <h3>Enhancement One:
     <a href="https://github.com/cbuzicky/CS-499-Capstone/tree/main/Enhancement_1"

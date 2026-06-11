@@ -1,6 +1,9 @@
 
 <h1 align="center">CS499 - SNHU Capstone Project</h1>
 
+<h3>Professional Self-Assessment</h3>
+
+
 <div style="height: 5px;"></div>
 
 <h3>
@@ -164,5 +167,3 @@ functionality and better align it with industry standards.
         Databases
     </a>
 </h3>
-
-<h3>Professional Self-Assessment</h3>

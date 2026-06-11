@@ -1,7 +1,7 @@
 
 <h1 align="center">CS499 - SNHU Capstone Project</h1>
-
-<h3>style="margin-top: 30px;"Professional Self-Assessment</h3>
+<br>
+<h3>Professional Self-Assessment</h3>
 
 
 <div style="height: 5px;"></div>

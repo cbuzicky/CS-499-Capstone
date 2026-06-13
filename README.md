@@ -195,7 +195,7 @@ functionality and better align it with industry standards.
 
   <div style="text-align:center;">
     <strong>Inventory Tracking Page</strong><br>
-    <img src="Enhancement_3/images/Inventory_Tracking_Page.png" width="400" alt="Inventory Tracking Page">
+    <img src="Enhancement_3/images/Inventory_Tracking_Page.png" width="300" alt="Inventory Tracking Page">
   </div>
 
   <div style="text-align:center;">

@@ -159,6 +159,7 @@ functionality and better align it with industry standards.
     <img src="Enhancement_2/images/Sort_Search.png" width="400" alt="Sort and Search Functionality added to Inventory List page">
   </div>
 </div>
+<br><br>
 
 <h3>Enhancement Three:
     <a href="https://github.com/cbuzicky/CS-499-Capstone/tree/main/Enhancement_3"

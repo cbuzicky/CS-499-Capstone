@@ -191,6 +191,16 @@ functionality and better align it with industry standards.
 
 <p>Overall, I was satisfied with the completion of these database enhancements. While some tasks more challenging than I initially anticipated, I was able to successfully implement all of the planned improvements. In the future, I would like to continue expanding the Inventory Tracking Report by tracking additional types of changes, such as when item images are updated or when inventory items are added or removed from the system. I would also like to improve the appearance of the PDF report by adding a company logo and incorporating color to create a more professional and visually appealing design. Another enhancement I would consider is improving support for older Android devices by implementing the permissions required for downloading PDF files. This would allow a wider range of users to access the reporting functionality and improve the overall usability of the application.</p>
 
+<p>References</p>
+    
+Android Developers. (n.d.). Canvas. https://developer.android.com/reference/android/graphics/Canvas
+
+Android Developers. (n.d.). PdfDocument. https://developer.android.com/reference/android/graphics/pdf/PdfDocument
+
+Rajjan Sharma. (2025, August 12). Create pdf in android studio [Video]. YouTube. https://www.youtube.com/watch?v=aXGcfrlZthM
+
+The Code City. (2023, May 23). Create PDF in Android Studio and Write to It - Step by Step Tutorial [Video]. YouTube. https://www.youtube.com/watch?v=dfXyqW4vof8
+
 <div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
 
   <div style="text-align:center;">
@@ -204,19 +214,8 @@ functionality and better align it with industry standards.
   </div>
 
   <div style="text-align:center;">
-    <strong>Password Hashing Code</strong><br>
+    <strong>Password Hashing Method</strong><br>
     <img src="Enhancement_3/images/Password_Hashing.png" width="400" alt="Password Hashing Code Method">
   </div>
  
 </div>
-
-<p>References</p>
-    
-Android Developers. (n.d.). Canvas. https://developer.android.com/reference/android/graphics/Canvas
-
-Android Developers. (n.d.). PdfDocument. https://developer.android.com/reference/android/graphics/pdf/PdfDocument
-
-Rajjan Sharma. (2025, August 12). Create pdf in android studio [Video]. YouTube. https://www.youtube.com/watch?v=aXGcfrlZthM
-
-The Code City. (2023, May 23). Create PDF in Android Studio and Write to It - Step by Step Tutorial [Video]. YouTube. https://www.youtube.com/watch?v=dfXyqW4vof8
-

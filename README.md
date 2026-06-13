@@ -194,18 +194,18 @@ functionality and better align it with industry standards.
 <div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
 
   <div style="text-align:center;">
-    <strong>Account Settings</strong><br>
-    <img src="Enhancement_1/images/Inventory_Tracking_Page.png" width="400" alt="Account Settings Page">
+    <strong>Inventory Tracking Page</strong><br>
+    <img src="Enhancement_3/images/Inventory_Tracking_Page.png" width="400" alt="Inventory Tracking Page">
   </div>
 
   <div style="text-align:center;">
-    <strong>Inventory List Changes</strong><br>
-    <img src="Enhancement_1/images/Inventory_Tracking_PDF.png" width="400" alt="Inventory List Page Changes">
+    <strong>Inventory Tracking PDF</strong><br>
+    <img src="Enhancement_3/images/Inventory_Tracking_PDF.png" width="400" alt="Inventory Tracking PDF Example">
   </div>
 
   <div style="text-align:center;">
-    <strong>Edit Item Dialog Changes</strong><br>
-    <img src="Enhancement_1/images/Password_Hashing.png" width="400" alt="Edit Item Dialog Page Changes">
+    <strong>Password Hashing Code</strong><br>
+    <img src="Enhancement_3/images/Password_Hashing.png" width="400" alt="Password Hashing Code Method">
   </div>
  
 </div>

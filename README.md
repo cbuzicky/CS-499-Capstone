@@ -191,6 +191,25 @@ functionality and better align it with industry standards.
 
 <p>Overall, I was satisfied with the completion of these database enhancements. While some tasks more challenging than I initially anticipated, I was able to successfully implement all of the planned improvements. In the future, I would like to continue expanding the Inventory Tracking Report by tracking additional types of changes, such as when item images are updated or when inventory items are added or removed from the system. I would also like to improve the appearance of the PDF report by adding a company logo and incorporating color to create a more professional and visually appealing design. Another enhancement I would consider is improving support for older Android devices by implementing the permissions required for downloading PDF files. This would allow a wider range of users to access the reporting functionality and improve the overall usability of the application.</p>
 
+<div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
+
+  <div style="text-align:center;">
+    <strong>Account Settings</strong><br>
+    <img src="Enhancement_1/images/Inventory_Tracking_Page.png" width="400" alt="Account Settings Page">
+  </div>
+
+  <div style="text-align:center;">
+    <strong>Inventory List Changes</strong><br>
+    <img src="Enhancement_1/images/Inventory_Tracking_PDF.png" width="400" alt="Inventory List Page Changes">
+  </div>
+
+  <div style="text-align:center;">
+    <strong>Edit Item Dialog Changes</strong><br>
+    <img src="Enhancement_1/images/Password_Hashing.png" width="400" alt="Edit Item Dialog Page Changes">
+  </div>
+ 
+</div>
+
 <p>References</p>
     
 Android Developers. (n.d.). Canvas. https://developer.android.com/reference/android/graphics/Canvas

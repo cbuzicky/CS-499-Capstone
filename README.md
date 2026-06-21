@@ -70,8 +70,7 @@ and password, enter items into an inventory list, and configure SMS notification
 I chose this artifact to showcase my skills across all three categories in this course for several reasons. I particularly 
 enjoyed working in Android Studio and developing both the frontend and backend components of the application. 
 Because of this, I felt the project would effectively demonstrate my technical abilities while also highlighting the course outcomes. 
-From a Software Engineering and Design perspective, the application contained several areas that needed improvement in order 
-to become more functional, professional, and user-friendly.
+From a Software Engineering and Design perspective, the application contained several areas that needed improvement in order to become more functional, professional, and user-friendly.
 </p>
 
 <p>
@@ -210,7 +209,7 @@ functionality and better align it with industry standards.
 
 <p>The PDF report design was also challenging, and I was thankful for the great number of resources available, including the Android Developers guides for Paint and Canvas (Android Developers, n.d.), and YouTube tutorials from Rajjan Sharma (2025) and The Code City (2023) that reviewed the steps needed to create and save a PDF document in Android Studio. Once I understood the different components, such as using Paint and Canvas to create the display of the file, most of the time was spent making small adjustments to values such as the height of the columns and their positions to be sure the data fit well and would display correctly when the PDF was generated. </p>
 
-<p>Overall, I was satisfied with the completion of these database enhancements. While some tasks more challenging than I initially anticipated, I was able to successfully implement all of the planned improvements. In the future, I would like to continue expanding the Inventory Tracking Report by tracking additional types of changes, such as when item images are updated or when inventory items are added or removed from the system. I would also like to improve the appearance of the PDF report by adding a company logo and incorporating color to create a more professional and visually appealing design. Another enhancement I would consider is improving support for older Android devices by implementing the permissions required for downloading PDF files. This would allow a wider range of users to access the reporting functionality and improve the overall usability of the application.</p>
+<p>Overall, I was satisfied with the completion of these database enhancements. While some tasks were more challenging than I initially anticipated, I was able to successfully implement all of the planned improvements. In the future, I would like to continue expanding the Inventory Tracking Report by tracking additional types of changes, such as when item images are updated or when inventory items are added or removed from the system. I would also like to improve the appearance of the PDF report by adding a company logo and incorporating color to create a more professional and visually appealing design. Another enhancement I would consider is improving support for older Android devices by implementing the permissions required for downloading PDF files. This would allow a wider range of users to access the reporting functionality and improve the overall usability of the application.</p>
 
 <p>References</p>
     
